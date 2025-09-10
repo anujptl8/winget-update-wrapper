@@ -1,4 +1,4 @@
-🛠️ Winget Updater Tool
+🛠️ Winget Updater Tool\
 This tool is just a TUI wrapper that helps you update apps on your Windows PC using winget — the built-in package manager.
 
 🚀 How to Use\
